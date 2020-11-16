@@ -1,5 +1,4 @@
 @echo off
-
 rem Set CGRU root:
 SET "CGRU_LOCATION=%CD%"
 
